@@ -4,4 +4,3 @@ def using_until
     puts levitation_force
   end
 end
-
